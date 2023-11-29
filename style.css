@@ -1,0 +1,62 @@
+h1 {
+    color: red; 
+    font-family: cursive;
+}
+
+.activities{
+    color: white;
+}
+
+body {
+    background-color: #f084b6;
+}
+
+p{
+    color: white;
+}
+
+.paragraphs {
+    color: white;
+}
+
+.headers {
+    color: white;
+    font-size: 70px;
+    text-align: center;
+    font-family: cursive;
+
+}
+
+.h2 {
+    color: white;
+    margin-left: 52px;
+}
+
+img{
+    border: 7px white solid;
+    border-radius: 30px;
+}
+
+.form{
+    padding: 5px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+}
+
+.comments{
+    border-radius: 20px;
+}
+
+.submit{
+    border-radius: 20px;
+}
+
+.socials{
+    color: black;
+}
+
+.list{
+    color: white;
+}
+
+
